@@ -1,5 +1,7 @@
 # Apple iPhone Clone
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1cef3623-61d0-4c79-827f-5882cee94299/deploy-status)](https://app.netlify.com/sites/kaven-iphone/deploys)
+
 This is an interactive 3D clone of the Apple iPhone, built using cutting-edge web technologies to create a visually stunning and engaging user experience.
 
 ## 🚀 Features
