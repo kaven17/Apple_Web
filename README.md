@@ -34,7 +34,7 @@ src/
 ## 🎥 Demo
 
 Check out the live demo of the project:
-[Live Demo](#)
+[https://kaven-iphone.netlify.app/](#)
 
 ## 📦 Installation
 
